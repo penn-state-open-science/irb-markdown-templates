@@ -3,3 +3,4 @@
 .RData
 .Ruserdata
 irb-markdown-templates.Rproj
+.DS_Store

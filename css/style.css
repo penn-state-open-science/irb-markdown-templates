@@ -19,3 +19,12 @@ pre code {
   border-radius: 10px;
   background: #d5e0f7 center/3em no-repeat;
 }
+
+.purple_italics {
+  color: purple;
+  font-style: italic;
+}
+
+.green {
+  color: green;
+}

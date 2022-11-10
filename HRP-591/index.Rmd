@@ -12,7 +12,6 @@ output:
     word_document:
         toc: true
         number_sections: true
-        toc_float: false
 ---
 
 ## Protocol Title: {-}
@@ -49,7 +48,7 @@ Provide the registration number for this study, if applicable. See “HRP-103- I
 
 :::
 
-
+----
 
 **[Important Instructions for Using This Protocol Template:]{.underline}**
 
@@ -65,13 +64,12 @@ whether a study meets all applicable criteria for approval.
 -   **GRAY INSTRUCTIONAL BOXES:** Type your protocol responses [below]{.underline} the gray instructional boxes of guidance language. If the section or item is not applicable, indicate not applicable.
 -   **Do NOT delete the instructional boxes from the final version of the protocol.**
 -   The protocol should be written in lay language. Do **NOT** copy and paste grant proposal information into the protocol.
+-   Add the completed protocol template to your study in CATS IRB (<http://irb.psu.edu>) on the "Basic Information" page.
 
 [^1]: This template satisfies AAHRPP elements 1.7.B, I.8.B, I-9, II.2. A, II.2.I, II.3.A, II.3.B, II.3.C-II.3.C.1, II.3.D-F, II.4.A, III.1.C-F, II.2.D
 
 \newpage
 
--   Add the completed protocol template to your study in CATS IRB (<http://irb.psu.edu>) on the "Basic Information" page.
-    
 2.  **CATS IRB LIBRARY:**
 
 -   Documents referenced in this protocol template (e.g., SOP's, Worksheets, Checklists, and Templates) can be accessed by clicking the Library link in CATS IRB (<http://irb.psu.edu>).
@@ -197,7 +195,7 @@ knitr::write_bib(c(
 ```{r child="14-economic-burden.Rmd"}
 ```
 
-```{r child="14-economic-burden.Rmd" }
+```{r child="15-resources.Rmd" }
 ```
 
 ```{r child="16-other-approvals.Rmd"}
