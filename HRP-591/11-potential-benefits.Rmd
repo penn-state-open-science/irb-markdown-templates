@@ -1,0 +1,25 @@
+# Potential Benefits to Subjects and Others
+
+## Potential Benefits to Subjects {#benefits-subjects}
+
+::: {.instr_box}
+
+Describe the potential benefits that individual subjects may
+experience from taking part in the research. If there is no direct
+benefit to subjects, indicate as such. Compensation is not considered
+a benefit. Compensation should be addressed in section 13.0.
+
+:::
+
+>  [Type protocol text here or indicate "none" if there is no direct
+benefit to subjects]
+
+## Potential Benefits to Others {#benefits-others}
+
+::: {.instr_box}
+
+Describe the potential benefits to society or others.
+
+:::
+
+> [Type protocol text here]

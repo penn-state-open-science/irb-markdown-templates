@@ -1,0 +1,89 @@
+# HIPAA Research Authorization and/or Waiver or Alteration of Authorization
+
+::: {.instr_box}
+
+This section is about the access, use or disclosure of Protected Health Information (PHI).
+PHI is individually identifiable health information (i.e., health information containing one or more 18 identifiers) that is transmitted or maintained in any form or medium by a Covered Entity or its Business Associate. 
+A Covered Entity is a health plan, a health care clearinghouse or health care provider who transmits health information in electronic form.
+See “HRP-103 -Investigator Manual” for a list of the 18 identifiers.
+
+If requesting a waiver/alteration of HIPAA authorization, complete sections 6.2 and 6.3 in addition to section 6.1. The Privacy Rule permits waivers (or alterations) of authorization if the research meets certain conditions. Include only information that will be accessed with the waiver/alteration. 
+
+:::
+
+> [Do not type here]
+
+
+## Authorization and/or Waiver or Alteration of Authorization for the Uses and Disclosures of PHI
+
+::: {.instr_box}
+
+Check all that apply:
+
+:::
+
+[ ]	Not applicable, no identifiable protected health information (PHI) is accessed, used or disclosed in this study. [Mark all parts of sections 6.2 and 6.3 as not applicable]
+
+[ ]	Authorization will be obtained and documented as part of the consent process. [If this is the only box checked, mark sections 6.2 and 6.3 as not applicable]
+
+[ ]	Partial waiver is requested for recruitment purposes only (Check this box if patients’ medical records will be accessed to determine eligibility before consent/authorization has been obtained). [Complete all parts of sections 6.2 and 6.3]
+
+[ ]	Full waiver is requested for entire research study (e.g., medical record review studies). [Complete all parts of sections 6.2 and 6.3]
+
+[ ]	Alteration is requested to waive requirement for written documentation of authorization (verbal authorization will be obtained). [Complete all parts of sections 6.2 and 6.3]
+
+## Waiver or Alteration of Authorization for the Uses and Disclosures of PHI
+
+### Access, use or disclosure of PHI representing no more than a minimal risk to the privacy of the individual
+
+#### Plan to protect PHI from improper use or disclosure
+
+::: {.instr_box}
+
+Include the following statement as written – DO NOT ALTER OR DELETE unless this section is not applicable because the research does not involve a waiver of authorization. If the section is not applicable, remove the statement and indicate as not applicable.
+
+:::
+
+#### Plan to destroy identifiers or a justification for retaining identifiers 
+
+::: {.instr_box}
+
+Describe the plan to destroy the identifiers at the earliest opportunity consistent with the conduct of the research. Include when and how identifiers will be destroyed. If identifiers will be retained, provide the legal, health or research justification for retaining the identifiers.
+
+:::
+
+> [Type protocol text here or indicate as not applicable]
+
+### Explanation for why the research could not practicably be conducted without access to and use of PHI
+
+::: {.instr_box}
+
+Provide reasons why this research could not practicably be carried out without access to and use of PHI.
+
+:::
+
+> [Type protocol text here or indicate as not applicable]
+
+### Explanation for why the research could not practicably be conducted without the waiver or alteration of authorization
+
+::: {.instr_box}
+
+Provide reasons why this research could not practicably be carried out without the waiver or alternation of authorization.
+
+:::
+
+> [Type protocol text here or indicate as not applicable]
+
+## Waiver or alteration of authorization statements of agreement
+
+::: {.instr_box}
+
+By submitting this study for review with a waiver of authorization, you agree to the following statement – DO NOT ALTER OR DELETE unless this section is not applicable because the research does not involve a waiver or alteration of authorization. If the section is not applicable, remove the statement and indicate as **not applicable**.
+
+:::
+
+*Protected health information obtained as part of this research will not be reused or disclosed to any other person or entity, except as required by law, for authorized oversight of the research study, or for other permitted uses and disclosures according to federal regulations.*
+
+*The research team will collect only information essential to the study and in accord with the ‘Minimum Necessary’ standard (information reasonably necessary to accomplish the objectives of the research) per federal regulations.* 
+
+*Access to the information will be limited, to the greatest extent possible, within the research team. All disclosures or releases of identifiable information granted under this waiver will be accounted for and documented.*

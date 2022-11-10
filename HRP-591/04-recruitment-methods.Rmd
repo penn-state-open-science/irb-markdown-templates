@@ -1,0 +1,66 @@
+# Recruitment Methods
+
+::: {.instr_box}
+
+- Upload recruitment materials for your study in CATS IRB (http://irb.psu.edu). DO NOT include the actual recruitment wording in this protocol.  
+- StudyFinder:  If StudyFinder (http://studyfinder.psu.edu) is to be used for recruitment purposes, separate recruitment documents do not need to be uploaded in CATS IRB. The necessary information will be captured from the StudyFinder page in your CATS IRB study.  
+- Any eligibility screening questions (verbal/phone scripts, email, etc.) used when contacting potential participants must be uploaded to your study in CATS IRB (http://irb.psu.edu).
+
+:::
+
+> [Do not type here]
+
+## Identification of subjects
+
+::: {.instr_box}
+
+Describe the source of subjects and the methods that will be used to identify potential subjects (e.g., organizational listservs, established recruitment databases, subject pools, medical or school records, interactions during a clinic visit, etc.). 
+If not recruiting subjects directly (e.g., database query for eligible records or
+samples) state what will be queried, how and by whom.
+
+StudyFinder:
+
+-   If you intend to use StudyFinder (<http://studyfinder.psu.edu>) for recruitment purposes, include this method in this section.
+-   Information provided in this protocol, including the description of study procedures, compensation, and recruitment, needs to be consistent with information provided on the StudyFinder page in your CATS IRB study.
+    
+For Penn State Health submissions using Enterprise Information Management (EIM) for recruitment, and for non-Hershey locations as applicable, attach your EIM Design Specification form in CATS IRB (<http://irb.psu.edu>). See "HRP-103- Investigator Manual, Study Recruitment" for additional information.
+
+**DO NOT** include the actual recruitment material or wording in this protocol.
+
+:::
+
+> [Type protocol text here]
+
+## Recruitment process
+
+::: {.instr_box}
+Describe how potential subjects first learn about this research opportunity or indicate as not applicable if subjects will not be prospectively recruited to participant in the research.
+Subject recruitment can involve various methods (e.g., approaching potential subjects in person, contacting potential subjects via email, letters, telephone, ResearchMatch, or advertising to a general public via flyers, websites, StudyFinder, newspaper, television, and radio etc.).
+DO NOT include the actual recruitment material or wording in this protocol.
+:::
+
+> [Do not type here]
+
+### How potential subjects will be recruited
+
+> [Type protocol text here or indicate as not applicable]
+
+### Where potential subjects will be recruited
+
+> [Type protocol text here or indicate as not applicable]
+
+### When potential subjects will be recruited
+
+> [Type protocol text here or indicate as not applicable]
+
+### Describe the eligibility screening process. Screening begins when the investigator obtains information about or from a prospective participant in order to determine their eligibility.
+
+[ ] Eligibility screening is occurring before consent^[Unless informed consent is waived by the IRB, screening before consent is only permitted when screening activities are limited to the collection of information through oral or written communication OR when identifiable private information or identifiable biospecimens is obtained by accessing records or stored identifiable biospecimens.
+Screening before consent is not permitted if data will be used for activities other than eligibility screening/recruitment (e.g., data analysis).
+In some studies, these procedures may not take place unless HIPAA Authorization is obtained OR a waiver of HIPAA Authorization when applicable for the screening procedures is approved by the IRB.]</br>
+[ ] Eligibility screening is occurring after consent</br>
+[ ] Consent is not being obtained in this research</br>
+[ ] Not applicable - Eligibility screening is not being done in this research.
+
+> [Type protocol text here]
+

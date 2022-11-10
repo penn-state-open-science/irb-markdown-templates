@@ -1,0 +1,83 @@
+# Future Undetermined Research: Data and Specimen Banking
+
+::: {.instr_box}
+
+If this study is collecting **identifiable** data and/or specimens
+that will be banked for **future undetermined** **research**, please
+describe this process in the sections below. This information should
+not conflict with information provided in section 22 below OR the
+"HRP-598 -- Research Data Plan Review Form" regarding whether or not
+data and/or specimens will be associated with identifiers (directly or
+indirectly). If there are no plans to use identifiable data/specimens
+for future, undetermined research, then this section is **NOT
+applicable**.
+
+:::
+
+> [Do not type here]
+
+## Data and/or specimens being stored
+
+::: {.instr_box}
+
+Identify what data and/or specimens will be stored, and the data associated with each specimen.
+
+:::
+
+> [Type protocol text here or indicate as not applicable]
+
+## Location of storage
+
+::: {.instr_box}
+
+Identify the location where the data and/or specimens will be stored.
+
+:::
+
+> [Type protocol text here or indicate as not applicable]
+
+
+## Duration of storage
+
+::: {.instr_box}
+
+Identify how long the data and/or specimens will be stored. If data
+and/or specimens will be stored indefinitely, indicate such.
+
+:::
+
+> [Type protocol text here or indicate as not applicable]
+
+## Access to data and/or specimens
+
+
+::: {.instr_box}
+Identify who will have access to the data and/or specimens.
+
+:::
+
+
+## Procedures to release data or specimens
+
+::: {.instr_box}
+
+Describe the procedures to release the data and/or specimens,
+including: the process to request a release, approvals required for
+release, who can obtain data and/or specimens, and the data to be
+provided with the specimens.
+
+:::
+
+> [Type protocol text here or indicate as not applicable]
+
+
+## Process for returning results
+
+::: {.instr_box}
+
+Describe the process for returning results about the use of the data
+and/or specimens.
+
+:::
+
+> [Type protocol text here or indicate as not applicable]

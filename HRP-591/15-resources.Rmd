@@ -1,0 +1,67 @@
+# Resources Available
+
+## Facilities and locations
+
+::: {.instr_box}
+
+Identify and describe the facilities, sites, and locations where
+recruitment and study procedures will be performed.
+
+If research will be conducted outside the United States, describe
+site-specific regulations or customs affecting the research, and
+describe the process for obtaining local ethical review. Also,
+describe the principal investigator's experience conducting research
+at these locations and familiarity with local culture.
+
+:::
+
+
+
+## Feasibility of recruiting the required number of subjects
+
+::: {.instr_box}
+
+Indicate the number of potential subjects to which the study team has
+access. Indicate the percentage of those potential subjects needed for
+recruitment.
+
+:::
+
+> [Type protocol text here]
+
+## PI Time devoted to conducting the research
+
+::: {.instr_box}
+
+Describe how the PI will ensure that a sufficient amount of time will
+be devoted to conducting and completing the research. Consider outside
+responsibilities as well as other on-going research for which the PI
+is responsible. Please only provide a response for the principal
+investigator -- do **not** include information about any other study
+team members.
+
+:::
+
+> [Type protocol text here]
+
+## Availability of medical or psychological resources
+
+::: {.instr_box}
+Describe the availability of medical or psychological resources that
+subjects might need as a result of their participation in the study.
+
+:::
+
+> [Type protocol text here or indicate as not applicable]
+
+## Process for informing Study Team
+
+::: {.instr_box}
+
+Describe the training plans to ensure members of the research team are informed about the protocol and their duties.
+
+[Type protocol text here or indicate as not applicable if the principal investigator is the only study team member listed on the CATS IRB submission]
+
+:::
+
+> [Type protocol text here or indicate as not applicable if the principal investigator is the only study team member listed on the CATS IRB submission]

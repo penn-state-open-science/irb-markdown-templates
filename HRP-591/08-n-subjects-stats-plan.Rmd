@@ -1,0 +1,31 @@
+#	Number of Subjects and Statistical Plan
+
+## Number of Subjects
+
+::: {.instr_box}
+
+Indicate the maximum number of subjects to be accrued/enrolled. Distinguish between the number of subjects who are expected to be enrolled and screened, and the number of subjects needed to complete the research procedures if applicable (i.e., numbers of subjects excluding screen failures.)
+
+:::
+
+> [Type protocol text here]
+
+## Sample Size Determination
+
+::: {.instr_box}
+
+If applicable, provide a justification of the sample size outlined in section 8.1  to include reflections on, or calculations of, the power of the study.
+
+:::
+
+> [Type protocol text here or indicate as not applicable]
+
+## Statistical or Analytic Methods
+
+::: {.instr_box}
+
+Describe the statistical methods (or non-statistical methods of analysis) that will be employed.
+
+:::
+
+> [Type protocol text here]

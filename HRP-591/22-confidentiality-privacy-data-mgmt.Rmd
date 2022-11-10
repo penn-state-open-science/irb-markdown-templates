@@ -1,0 +1,562 @@
+# Confidentiality, Privacy and Data Management
+
+**IMPORTANT: The following section is required for all locations
+EXCEPT Penn State Health and the College of Medicine. Penn State
+Health and College of Medicine should skip this section and complete
+"HRP-598 Research Data Plan Review Form." In order to avoid
+redundancy, for this section state "See the Research Data Plan Review
+Form" if you are conducting Penn State Health research. Delete all
+other sub-sections of section 22.**
+
+::: {.instr_box}
+
+**[For research being conducted at Penn State Health or by Penn State
+Health researchers only]{.underline}: The research data security and
+integrity plan is submitted using "HRP-598 -- Research Data Plan Review
+Form."**
+
+**In order to avoid redundancy, for this section state "See the Research
+Data Plan Review Form" if you are conducting Penn State Health research.
+[Delete all sub-sections of section 22.]{.underline}**
+
+**[For all other research]**: Complete the following
+section. Please refer to [PSU Policy
+AD95](https://policy.psu.edu/policies/ad95#C) for information regarding
+information classification and security standards and requirements. It
+is recommended that you work with local IT staff when planning to store,
+process, or access data electronically to ensure that your plan can be
+carried out locally and meets applicable requirements. If you have
+questions about Penn State's Policy AD95 or standards or need a
+consultation regarding data security, please contact Penn State IT --
+Information Security at <security@psu.edu>.
+
+:::
+
+## Which of the following identifiers will be recorded for the research project? Check all that apply. If none of the following identifiers will be recorded, do not check any of the boxes.
+
+|                            | Hard Copy Data | Electronic Stored Data |
+|----------------------------|----------------|------------------------|
+| Names and/or initials (including on signed consent documents) | [ ] |  [ ]  |
+| All geographic subdivisions smaller than a State, including street address, city, county, precinct, zip code, and their equivalent geocodes | [ ] |  [ ]  |
+| All elements of dates (except year) for dates directly related to an individual, including birth date, admission date, discharge date, date of death; and all ages over 89 and all elements of dates (including year) indicative of such age, except that such ages and elements may be aggregated into a single category of age 90 or older      | [ ] |  [ ]  |
+| Telephone numbers                                      | [ ] |  [ ]  |
+| Fax numbers                                            | [ ] |  [ ]  |
+| Electronic mail addresses                              | [ ] |  [ ]  |
+| Social security numbers                                | [ ] |  [ ]  |
+| Medical record numbers                                 | [ ] |  [ ]  |
+| Health plan beneficiary numbers                        | [ ] |  [ ]  |
+| Account numbers                                        | [ ] |  [ ]  |
+| Certificate/license numbers                            | [ ] |  [ ]  |
+| Vehicle identifiers and serial numbers, including      | [ ] |  [ ]  |
+| license plate numbers                                  |     |       |
+| Device identifiers and serial numbers                  | [ ] |  [ ]  |
+| Web Universal Resource Locators (URLs)                 | [ ] |  [ ]  |
+| Internet Protocol (IP) address numbers                 | [ ] |  [ ]  |
+| Biometric identifiers, including finger and voice prints    | [ ] |  [ ]  |
+| Full face photographic images and any comparable images      | [ ] |  [ ]  |
+| Any other unique identifying number, characteristic, or code (such as the pathology number)  | [ ] |  [ ]  |
+| Study code number with linking list                    | [ ] |  [ ]  |
+| Genomic sequence data                                  | [ ] |  [ ]  |
+| State ID numbers                                       | [ ] |  [ ]  |
+| Passport numbers                                       | [ ] |  [ ]  |
+| Driver's license numbers                               | [ ] |  [ ]  |
+
+## If storing paper records of research data, answer the following questions:
+
+### Where will the paper records, including copies of signed consent forms, associated with this research study will be stored?
+
+> [Type protocol text here or indicate as not applicable]
+
+### How will the paper records be secured? 
+
+> [Type protocol text here or indicate as not applicable]
+
+### How will access to the paper records be restricted to authorized project personnel?
+
+> [Type protocol text here or indicate as not applicable]
+
+## If storing electronic records of research data, indicate where the electronic data associated with this research study will be stored. Check all that apply. 
+
+[ ] Penn State-provided database application. Check which of the following database applications are being used (check all that apply):</br>
+    - [ ] Penn State REDCap</br>
+    - [ ] Other – Specify - provided and approved database application:</br>
+    
+[ ] Penn State, College, or Department IT file server
+
+[ ] Penn State OneDrive or SharePoint
+
+[ ] Penn State GoogleDrive
+
+[ ] Web-based system provided by the sponsor or cooperative group - Specify URL and contact information: 
+
+[ ] Other – Specify the database application or server:
+
+> **Please visit** **[datastoragefinder.psu.edu](https://datastoragefinder.psu.edu/) for assistance with identifying appropriate data storage options.** 
+> If the software to be used does not appear on that site, a [software request form](https://pennstate.qualtrics.com/jfe/form/SV_en6NEiMElsu35l3) must be completed.** If there is a list/key that links indirect identifiers (code numbers, participant IDs, etc.) to direct identifiers, that list must **not** be comingled (i.e., stored in the same location) as the identifiable data, including copies of signed informed consent forms. Additionally, access to that list/key must be restricted to authorized project personnel.
+
+## Is there a list/key that links code numbers to identifiers? 
+
+[ ] Yes - explain how the list that links the code to identifiers is stored separately from coded data.
+
+The identifiers will be provided voluntarily by respondents and are linked to their survey responses as long as the identifiers are stored by the researchers.
+
+[ ] Not applicable, there is no list that links code numbers to identifiers. Skip to section 22.6.
+
+## Is there a list of people who have access to the list/key?
+
+[ ] Yes -- explain how access to that list is restricted and why certain persons require access.
+
+The PI and co-investigators on the IRB protocol will have access to the data.
+
+[ ] No -- explain why not:
+
+## Describe the mechanism in place to ensure only approved research personnel have access to the stored research data (electronic and paper).
+
+[ ] Password-protected files
+[ ] Role-based security
+
+Specify all other mechanisms used to ensure only permitted users have access to the stored research data:
+
+::: {.instr_box}
+
+The use of mobile devices or wireless activity trackers to collect identifiable research data may have to be approved by Penn State IT - Information Security.
+
+:::
+
+## Will research data be stored on a mobile device, such as an electronic tablet/cell phone or will research data be collected on a wireless activity tracker? 
+
+[ ] No -- skip to 22.8
+
+[ ] Yes - answer the following questions:
+
+### Specify the provider of the tracker or mobile devices(s)
+
+[ ] Supplied by the sponsor
+
+[ ] Penn State owned device
+
+[ ] A personal device
+
+[ ] Other -- Please specify source: [Type protocol text here if box is checked]
+
+### Specify the type(s) of tracker or mobile device(s) that will be used to capture data and all identifiers captured on the mobile device(s). Please list all devices, and if more than one, the identifiers to be collected on each.
+
+> [Type protocol text here]
+
+### Specify the type of data collected on the tracker or mobile devices(s). 
+
+> [Type protocol text here]
+
+### Specify the application or website used to collect the data from the tracker or mobile device, if applicable.
+
+> [Type protocol text here]
+
+### Describe the measures taken to protect the confidentiality of the data collected on the tracker or mobile device(s). Please address physical security of the device(s), electronic security, and secure transfer of data from device(s) to the previously indicated data/file storage location provided in section 22.3.
+
+::: {.instr_box}
+
+The use of online survey tools and email to collect or send research data containing identifiers that represent more than minimal risk to subjects may have to be approved by Penn State IT - Information Security.
+
+:::
+
+## Will any research data be directly entered/sent by subjects over the internet or via email (e.g., data capture using on-line surveys/questionnaires, surveys via email, observation of chat rooms or blogs)?
+
+[ ] No -- skip to 22.9
+
+[ ] Yes - answer the following questions:
+
+### Specify the identifiers collected over the internet or via email (Including IP addresses if IP addresses will be collected).
+
+### Specify the type of data collected over the internet or via email.
+
+### Describe the measures taken to protect the confidentiality of the data collected?
+
+### Describe how the research team will access the data once data collection is complete.
+
+### If the research involves online surveys, list the name(s) of the service provider(s) that will be used for the survey(s) (e.g., REDCap, Penn State licensed Qualtrics, Survey Monkey, Zoomerang)? (Note: The IRB strongly recommends the use of REDCap for online surveys that obtain sensitive identifiable human subjects data.)
+
+[ ] Penn State REDCap
+
+[ ] Penn State Qualtrics
+
+[ ] Penn State Microsoft Forms
+
+[ ] Penn State Google Forms
+
+[ ] Other - Please specify:
+    - Application:
+    - URL (If applicable):
+
+### If the answer above is "Other" contact <security@psu.edu> for approval of an alternative data capture method
+
+::: {.instr_box}
+
+Depending on the nature of the subject matter involved, certain security requirements must be in place for the audio and/or video recording or photographing of subjects.
+If the subject matter presents more than minimal risk to the subjects, then, before completing the section below, please contact Penn State IT - Information Security at <security@psu.edu> to confirm whether these requirements are required.
+
+:::
+
+
+## Will any type of recordings (e.g., audio or video) or photographs of the subjects be made during this study?
+
+[ ] No - skip to section 22.10
+
+[ ] Yes - answer the following questions:
+
+### What will be used to capture the audio/video/images? Give a brief description of content.
+
+[ ] Audio -- Describe the intended content of the audio recording:
+
+> [Type protocol text here]
+
+[ ] Video -- Describe the intended content of the video recording:
+
+> [Type protocol text here]
+
+[ ] Photographs of the subjects -- Describe the intended content of the
+ photographs:
+
+> [Type protocol text here]
+
+[ ] 3-D Images -- Describe the intended content of the of 3-D images:
+
+> [Type protocol text here]
+
+[ ] Other - Specify:
+
+> [Type protocol text here]
+
+### How will the recordings/photographs/images be stored (electronically or physically)?
+
+> [Type protocol text here]
+
+### Where will the recordings/photographs/images be stored?
+
+> [Type protocol text here]
+
+### Who will have access to the recordings/photographs/images?
+
+> [Type protocol text here]
+
+### Will any of the recordings be transcribed?
+
+[ ]  Not applicable
+
+[ ]  No
+
+[ ]  Yes -- indicate who will be doing the transcribing?
+
+> [Type protocol text here]
+
+### Will the recordings/photographs be used for purposes other than this research study?
+
+[ ]   No
+
+[ ]   Yes - specify purpose(s) (e.g., publication, presentations, educational training, future undetermined research):
+
+> [Type protocol text here]
+
+
+## Certificate of Confidentiality (COC) - Is the research biomedical, behavioral, clinical or other research that is funded by the National Institutes of Health (NIH)?
+
+[ ] Yes - check one of the following:</br>
+    - [ ] The research involves human subjects as defined by the DHHS regulations (See Worksheet HRP-310).</br>
+    - [ ] The research involves collecting or using biospecimens that are identifiable to an individual.</br>
+    - [ ] If collecting or using biospecimens as part of the research, there is a small risk that some combination of the biospecimen, a request for the biospecimen, and other available data sources could be used to deduce the identity of an individual.</br>
+    - [ ] The research involves the generation of individual level, human
+genomic data.
+
+**Note: If [any] of the 4 items above are checked, a COC is automatically issued by NIH and applies to the research. Information about the COC must be included in the consent form.**
+
+[ ] No - answer the following question.</br>
+    - [ ] If the research is not funded by NIH, will the investigator apply for a COC for this research study?</br>
+        - [ ] Yes
+        - [x] No
+
+> **Note: For research not funded by NIH, the IRB may require a COC if
+> the research is collecting personally identifiable information and the
+> information is sensitive and/or the research is collecting information
+> that if disclosed could significantly harm or damage the subject.**
+
+## What steps will be taken to protect subjects' privacy interests? (Check all that apply.)
+
+[ ] Identification and recruitment of potential subjects follows
+procedures consistent with privacy standards
+
+[ ]  Consent discussion and research interventions will take place in a
+private setting
+
+[ ]  Limiting the information being collected to only the minimum amount of
+data necessary to accomplish the research purposes
+
+[ ]  Limiting the people with access to the identifiable research data to
+the minimum necessary as specified in the application and consent
+process
+
+[ ] Other -- Specify:
+
+> [Type protocol text here]
+
+## What is the process for ensuring correctness of data entry?
+
+[ ] Double data entry to reduce risk of errors
+
+[ ] Electronic edit checks to ensure data being entered are not obviously
+incorrect
+
+[ ] Random internal quality and assurance checking of research data
+
+[ ] Direct entry by subjects
+
+[ ]  Other - Specify:
+
+>[Type protocol text here]
+
+## Does this research involve the generation of large-scale human genomic data as defined in NIH Genomic Data Sharing Policy (<http://gds.nih.gov>)?
+
+[ ] No
+
+[ ] Yes -- describe the plan for de-identifying the dataset before sharing
+it with NIH-designated data repositories.
+
+> [Type protocol text here]
+
+>**Note: Data sharing with an NIH-designated data repository may require execution of an institutional certificate. 
+>Please review the 'Institutional Certification for NIH Genomic Data Sharing' section of the Investigator's Manual for information about seeking institutional certification.**
+
+## Does this research involve transfer or disclosure of data and/or specimens to and/or from Penn State?
+
+[ ] No - skip the remainder of section 22.14
+
+[ ] Yes - answer the following questions:
+
+**Check all that apply:**
+
+### **Data** are being transferred or disclosed **to** Penn State
+
+What is the name of the third party(ies) (the institution, sponsor,
+etc.) sending or providing the data?
+
+> [Type protocol text here]
+
+Is the third party requiring us to sign a contract regarding the data?
+
+#### [ ] Yes - this contract must go through the Office of Sponsored Programs <https://www.research.psu.edu/osp/overview-pages/data-use-agreements>
+
+#### [ ] No
+
+### **Data** are being transferred or disclosed **from** Penn State
+
+What is the name(s) of the third party(ies) (the institution, sponsor, etc.) receiving or accessing the data?
+
+> [Type protocol text here]
+
+> **Note: Data transfers or disclosures may require a Data Use Agreement
+> (DUA).**
+
+### **Specimens** are being transferred **to** Penn State
+
+> What is the name(s) of the third party(ies) (the institution, sponsor,
+> etc.) sending the specimens?
+
+> [Type protocol text here]
+
+###  **Specimens** are being transferred **from** Penn State
+
+> What is the name(s) of the third party(ies) (the institution, sponsor,
+> etc.) receiving the specimens?
+
+>[Type protocol text here]
+
+> **Note: All material transfers, either sending or receiving, require a
+> Material Transfer Agreement (MTA). Please contact the Office of
+> Technology Management for more information.**
+
+### Describe how the data/specimens will be securely transferred or disclosed to/from the third party(ies).
+
+> [Type protocol text here]
+
+### 22.14.6 How are the research data/specimens being transferred from and/or sent to the third party(ies)? Complete the appropriate section(s) and check all that apply within each completed section.
+
+#### 22.14.6.1 Data being transferred or disclosed to Penn State:
+
+[ ] Data are being received in aggregate/metrics (just counts, no
+individual data)
+
+[ ] De-identified individual data are being received and there is no
+linking list at either institution (no identifiers, or links to
+identifiers, such as code numbers)
+
+[ ] Coded research data [without]{.underline} any identifiers are being
+received and the linking list remains with the entity sending the
+data; the recipient of the data [will not]{.underline} have access to
+the linking list
+
+[ ] Coded research data *with* identifiers (such as dates
+and/or any of the identifiers listed in section 22.14.7 aside from
+Study Code) are being received and the linking list remains with the
+entity sending the data; the recipient of the data *will
+not* have access to the linking list
+
+[ ] Data [with]{.underline} identifiers (such as dates and/or any of the
+identifiers listed in section 22.14.7) are being received and the
+linking list remains with the entity sending the data; the recipient
+of the data [will]{.underline} have access to the linking list
+
+[ ] Data [with]{.underline} identifiers along with the linking list are
+being received
+
+[ ] Other -- Specify:
+
+> [Type protocol text here if box is checked]
+
+#### 22.14.6.2 Data being transferred or disclosed from Penn State:
+
+[ ] Data are being sent in aggregate/metrics (just counts, no individual
+data)
+
+[ ] De-identified individual data are being sent and there is no linking
+list at either institution (no identifiers, or links to identifiers,
+such as code numbers)
+
+[ ] Coded research data [without]{.underline} any identifiers are being
+sent and the linking list remains with the entity sending the data;
+the recipient of the data [will not]{.underline} have access to the
+linking list
+
+[ ] Coded research data [with]{.underline} identifiers (such as dates
+and/or any of the identifiers listed in section 22.14.7 aside from
+Study Code) are being sent and the linking list remains with the
+entity sending the data; the recipient of the data [will
+not]{.underline} have access to the linking list
+
+[ ] Data [with]{.underline} identifiers (such as dates and/or any of the
+identifiers listed in section 22.14.7) are being sent and the linking
+list remains with the entity sending the data; the recipient of the
+data [will]{.underline} have access to the linking list
+
+[ ] Data [with]{.underline} identifiers along with the linking list are
+being sent
+
+[ ] Other -- Specify:
+
+> [Type protocol text here if box is checked]
+
+#### 22.14.6.3 Specimens being transferred or disclosed to Penn State:
+
+[ ] De-identified specimens are being received and there is no linking
+list at either institution (no identifiers, or links to identifiers,
+such as code numbers)
+
+[ ] Coded specimens [without]{.underline} any identifiers are being
+received and the linking list remains with the entity sending the
+specimens; the recipient of the specimens [will not]{.underline} have
+access to the linking list
+
+[ ] Coded specimens [with]{.underline} identifiers (such as dates and/or
+any of the identifiers listed in section 22.14.7 aside from Study
+Code) are being received and the linking list remains with the entity
+sending the specimens; the recipient of the specimens [will
+not]{.underline} have access to the linking list
+
+[ ] Coded specimens [with]{.underline} identifiers (such as dates and/or
+any of the identifiers listed in section 22.14.7) are being received
+and the linking list remains with the entity sending the specimens;
+the recipient of the specimens [will]{.underline} have access to the
+linking list
+
+[ ] Coded specimens [with]{.underline} identifiers along with the linking
+list are being received
+
+Other -- Specify:
+
+> [Type protocol text here if box is checked]
+
+#### 22.14.6.4 Specimens being transferred or disclosed from Penn State:
+
+[ ] De-identified specimens are being sent and there is no linking list at
+either institution (no identifiers, or links to identifiers, such as
+code numbers)
+
+[ ] Coded specimens [without]{.underline} any identifiers are being sent
+and the linking list remains with the entity sending the specimens;
+the recipient of the specimens [will not]{.underline} have access to
+the linking list
+
+[ ] Coded specimens [with]{.underline} identifiers (such as dates and/or
+any of the identifiers listed in section 22.14.7 aside from Study
+Code) are being sent and the linking list remains with the entity
+sending the specimens; the recipient of the specimens [will
+not]{.underline} have access to the linking list
+
+[ ] Coded specimens [with]{.underline} identifiers (such as dates and/or
+any of the identifiers listed in section 22.14.7) are being sent and
+the linking list remains with the entity sending the specimens; the
+recipient of the specimens [will]{.underline} have access to the
+linking list
+
+[ ] Coded specimens [with]{.underline} identifiers along with the linking
+list are being sent
+
+[ ] Other -- Specify:
+
+> [Type protocol text here if box is checked]
+
+### 22.14.7 If transferring data/specimens with identifiers to or from Penn State, which of the following identifiers will be included with the data/specimens? Check all that apply:
+
++-----------------------------+----------------------------------------+
+| [ ] Names                   | [ ] Medical record numbers             |
++-----------------------------+----------------------------------------+
+| [ ] Initials                | [ ] Health plan beneficiary numbers    |
++-----------------------------+----------------------------------------+
+| [ ] Street address          | [ ] Account numbers                    |
++-----------------------------+----------------------------------------+
+| [ ] City                    | [ ] Certificate/license numbers        |
++-----------------------------+----------------------------------------+
+| [ ] Driver's License numbers| [ ] Passport numbers                   |
++-----------------------------+----------------------------------------+
+| [ ] State                   | [ ] State ID numbers                   |
++-----------------------------+----------------------------------------+
+| [ ] Zip Codes               | [ ] Vehicle identifiers and serial         |
+|                             | numbers, including license plate       |
+|                             | numbers                                |
++-----------------------------+----------------------------------------+
+| [ ] County                  | [ ] Device identifiers and serial numbers  |
++-----------------------------+----------------------------------------+
+| [ ] Geocodes                | [ ] Web Universal Resource Locators (URLs) |
++-----------------------------+----------------------------------------+
+| [ ] Precincts               | [ ] Internet Protocol (IP) address numbers |
++-----------------------------+----------------------------------------+
+| [ ] All elements of dates   | [ ] Biometric identifiers, including       |
+| (except year) for dates     | finger and voice prints                |
+| directly related to an      |                                        |
+| individual, including birth |                                        |
+| date, admission date,       |                                        |
+| discharge date, date of     |                                        |
+| death                       |                                        |
++-----------------------------+----------------------------------------+
+| [ ] Ages > 89 and all elements | [ ] Full face photographic images and any  |
+| of dates (including year)   | comparable images                      |
+| indicative of such age,     |                                        |
+| except that such ages and   |                                        |
+| elements may be aggregated  |                                        |
+| into a single category of   |                                        |
+| age 90 or older             |                                        |
++-----------------------------+----------------------------------------+
+| [ ] Telephone numbers       | [ ] Any other unique identifying number,   |
+|                             | characteristic, or code (such as the   |
+|                             | pathology number)                      |
+|                             |                                        |
+|                             | Specify:[Type protocol text here if  |
+|                             | box is checked]                       |
++-----------------------------+----------------------------------------+
+| [ ] Fax numbers             | [ ] Study code numbers                     |
++-----------------------------+----------------------------------------+
+| [ ] Electronic mail addresses | [ ] Master list linking study code numbers |
+|                             | to subject(s)                          |
++-----------------------------+----------------------------------------+
+| [ ] Social security numbers | [ ] Genomic sequence data                  |
++-----------------------------+----------------------------------------+
+|                             | [ ] Other -- specify:[Type protocol text |
+|                             | here if box is checked]               |
++-----------------------------+----------------------------------------+

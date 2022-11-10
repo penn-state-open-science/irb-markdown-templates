@@ -1,0 +1,10 @@
+# References
+
+::: {.instr_box}
+
+List relevant references in the literature which highlight methods,
+controversies, and study outcomes.
+
+:::
+
+[Type protocol text here or indicate as not applicable]

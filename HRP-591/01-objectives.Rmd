@@ -1,0 +1,40 @@
+# Objectives
+
+## Study Objectives
+
+::: {.instr_box}
+
+Describe the purpose, specific aims, or objectives.
+
+:::
+
+The purpose of this study is to investigate knowledge about Open Science and its practices among graduate students, postdocs, teaching faculty, research staff, research faculty, and administrators.
+Open Science is a growing movement to make research more transparent, to share data and code, and to publish in venues that are accessible to all.
+We aim to understand what our colleagues at Penn State know about Open Science as practiced in their fields. We are also interested in learning what barriers respondents find in their adoption of these practices.
+
+> [Type protocol text here]
+
+## Primary Study Endpoints
+
+::: {.instr_box}
+
+State the primary endpoints to be measured in the study.
+
+Research typically has a primary objective or endpoint. 
+Additional objectives and endpoints are secondary. 
+The endpoints (or outcomes), determined for each study subject, are the quantitative measurements required by the objectives. 
+Measuring the selected endpoints is the goal of a trial (examples: response rate and survival).
+
+:::
+
+> [Type protocol text here or indicate as not applicable]
+
+## Secondary Study Endpoints
+
+::: {.instr_box}
+
+State the secondary endpoints to be measured in the study.
+
+:::
+
+> [Type protocol text here or indicate as not applicable]

@@ -1,0 +1,254 @@
+# Consent Process and Documentation
+
+::: {.instr_box}
+
+Refer to the following materials:
+- The “HRP-090- SOP - Informed Consent Process for Research” outlines the process for obtaining informed consent.  
+- The “HRP-091– SOP - Written Documentation of Consent” describes how the consent process will be documented.
+- The “HRP-314- Worksheet - Criteria for Approval” section 7 lists the required elements of consent.
+- The “HRP-312- Worksheet - Exemption Determination” includes information on requirements for the consent process for exempt research.  In addition, the CATS IRB Library contains consent guidance and templates for exempt research.
+- The CATS IRB library contains various consent templates for expedited or full review research that are designed to include the required information.
+- Add the consent document(s) to your study in CATS IRB (http://irb.psu.edu). 
+Links to Penn State’s consent templates are available in the same location where they are uploaded. DO NOT include the actual consent wording in this protocol.
+
+:::
+
+> [Do not type here]
+
+## Consent Process
+
+::: {.instr_box}
+
+Check all applicable boxes below:
+
+:::
+
+[ ] Informed consent will be sought and documented with a written consent form *[Complete Sections \@ref(obtaining-consent) and \@ref(consent-other); If this is the only box checked, mark Sections \@ref(#waive-doc), \@ref(altered-consent) and \@ref(no-consent) as ‘Not applicable’]* 
+
+[ ] Implied or verbal consent will be obtained – subjects will not sign a consent form (waiver of written documentation of consent) *[Complete Sections 5.2, 5.3 and 5.6; If this is the only box checked, mark Sections 5.4 and 5.5 as ‘Not applicable’]*
+
+[ ] Informed consent will be sought but some of the elements of informed consent will be omitted or altered (e.g., deception). *[Complete section \@ref(obtaining-consent), \@ref(altered-consent) and \@ref(consent-other); If this is the only box checked, mark Section \@ref(no-consent) as ‘Not applicable’]*
+
+[ ] Informed consent will not be obtained – request to completely waive the informed consent requirement. *[Complete Section \@ref(no-consent); If this is the only box checked, mark Sections \@ref(obtaining-consent), \@ref(waive-doc), \@ref(altered-consent) and \@ref(consent-other) as ‘Not applicable’]*
+
+[ ] Exempt Research: If you believe that the research activities outlined meet one or more of the criteria outlined in “HRP-312- Worksheet- Exemption Determination”, check this box. By checking this box, you are verifying that the exempt consent process will disclose the following: Penn State affiliation; name and contact information for the researcher and advisor (if the researcher is a student); the activities involve research; the procedures to be performed; participation is voluntary; that there are adequate provisions to maintain the privacy interests of subjects and the confidentiality of the data.  
+
+**If the research includes the use of student educational records include the following language in this section**: The parent or eligible student will provide a signed and dated written consent that discloses: the records that may be disclosed; the purpose of the disclosure; the party or class of parties to whom the disclosure may be made; if a parent or adult student requests, the school will provide him or her with a copy of the records disclosed; if the parent of a student who is not an adult so requests, the school will provide the student with a copy of the records disclosed.
+
+**Note: If this box has been checked, mark Sections \@ref(waive-doc), \@ref(altered-consent), \ref(no-consent), and \@ref(consent-other) as “Not applicable.”**
+**If the investigator’s assessment is inaccurate, an IRB Analyst will request revision to the protocol and ask that consent forms and recruitment materials be submitted.**
+**Except for exemptions where Limited IRB Review is required (see “HRP-312- Worksheet- Exemption Determination”) or where otherwise requested by the IRB, consent forms and recruitment materials are generally not reviewed nor approved by the PSU HRPP for research undergoing exempt review.**
+
+## Obtaining Informed Consent {#obtaining-consent}
+
+### Consent Process
+
+::: {.instr_box}
+
+Describe where and when the consent process will take place.
+
+:::
+
+> [Type protocol text here]
+
+
+### Coercion or Undue Influence during Consent
+
+::: {.instr_box}
+
+Describe the steps that will be taken to minimize the possibility of coercion or undue influence in the consent process.
+
+:::
+
+> [Type protocol text here]
+
+## Waiver of Written Documentation of Consent {#waive-doc}
+
+::: {.instr_box}
+
+Review “HRP – 411 – Checklist – Waiver of Written Documentation of Consent.”
+
+:::
+
+### Indicate which of the following conditions applies to this research
+
+[ ] The research presents no more that minimal risk of harm to subjects and involves no procedures for which written consent is normally required outside of the research context.
+
+OR
+
+[ ] The only record linking the subject and the research would be the consent document and the principal risk would be potential harm resulting from a breach of confidentiality. Each subject will be asked whether the subject wants documentation linking the subject with the research, and the subject’s wishes will govern. (Note: This condition is not applicable for FDA-regulated research. If this category is chosen, include copies of a consent form and /or parental permission form for participants who want written documentation linking them to the research.)
+
+OR
+
+[ ] If the subjects or legally authorized representatives are members of a distinct cultural group or community in which signing forms is not the norm, that the research presents no more than minimal risk of harm to subjects and provided there is an appropriate alternative mechanism for documenting that informed consent was obtained. (Note: This condition is not applicable for FDA-regulated research.) 
+
+::: {.instr_box}
+
+For distinct cultural groups, describe the alternative mechanism for documenting that informed consent was obtained.
+
+:::
+
+> [Type protocol text here]
+
+### Indicate what materials, if any, will be used to inform potential subjects about the research (e.g., a letter accompanying a questionnaire, verbal script, or implied consent form).
+
+> [Type protocol text here or indicate as not applicable]
+
+## Informed consent will be sought but some of the elements of informed consent will be omitted or altered (e.g., deception) {#altered-consent}
+
+::: {.instr_box}
+
+Review “HRP-410-Checklist -Waiver or Alteration of Consent Process” to ensure that you have provided sufficient information.
+
+:::
+
+### Indicate the elements of informed consent to be omitted or altered.
+
+> [Type protocol text here or indicate as not applicable]
+
+### Indicate why the research could not practicably be carried out without the omission or alteration of consent elements
+
+> [Type protocol text here or indicate as not applicable]
+
+### Describe why the research involves no more than minimal risk to subjects.
+
+> [Type protocol text here or indicate as not applicable]
+
+### Describe why the alteration/omission will not adversely affect the rights and welfare of subjects.
+
+> [Type protocol text here or indicate as not applicable]
+
+### If the research involves using identifiable private information or identifiable biospecimens, describe why the research could not practicably be carried out without using such information or biospecimens in an identifiable format.
+
+> [Type protocol text here or indicate as not applicable]
+
+### Debriefing
+
+::: {.instr_box}
+
+Explain whether and how subjects will be debriefed after participation in the study. If subjects will not be debriefed, provide a justification for not doing so. Add any debriefing materials to the study in CATS IRB.
+
+:::
+
+> [Type protocol text here or indicate as not applicable]
+
+## Informed consent will not be obtained – request to completely waive the informed consent requirement {#no-consent}
+
+::: {.instr_box}
+
+Review “HRP-410-Checklist -Waiver or Alteration of Consent Process” to ensure that you have provided sufficient information.
+
+:::
+
+### Indicate why the research could not practicably be carried out without the waiver of consent.
+
+> [Type protocol text here or indicate as not applicable]
+
+### Describe why the research involves no more than minimal risk to subjects.
+
+> [Type protocol text here or indicate as not applicable]
+
+### Describe why the alteration/omission will not adversely affect the rights and welfare of subjects.
+
+> [Type protocol text here or indicate as not applicable]
+
+### If the research involves using identifiable private information or identifiable biospecimens, describe why the research could not practicably be carried out without using such information or biospecimens in an identifiable format.
+
+> [Type protocol text here or indicate as not applicable]
+
+### Additional pertinent information after participation.
+
+::: {.instr_box}
+
+Explain if subjects will be provided with additional pertinent information after participation.
+
+:::
+
+> [Type protocol text here or indicate as not applicable]
+
+## Consent – Other Considerations {#consent-other}
+
+### Non-English-Speaking Subjects
+
+::: {.instr_box}
+
+Indicate what language(s) other than English are understood by prospective subjects or representatives.
+
+If subjects who do not speak English will be enrolled, describe the process to ensure that the oral and written information provided to those subjects will be in that language. Indicate the language that will be used by those obtaining consent.
+
+Indicate whether the consent process will be documented in writing with the long form of the consent documentation or with the short form of the consent documentation. Review “HRP-091 –SOP- Written Documentation of Consent” and “HRP-103 -Investigator Manual” to ensure that you have provided sufficient information.
+
+:::
+
+> [Type protocol text here or indicate as not applicable]
+
+### Cognitively Impaired Adults
+
+::: {.instr_box}
+
+Refer to “HRP-417 -CHECKLIST- Cognitively Impaired Adults” for information about research involving cognitively impaired adults as subjects.
+
+:::
+
+#### Capability of Providing Consent
+
+::: {.instr_box}
+
+Describe the process to determine whether an individual is capable of consent.
+
+:::
+
+> [Type protocol text here or indicate as not applicable]
+
+#### Adults Unable to Consent
+
+::: {.instr_box}
+
+Describe whether and how informed consent will be obtained from the legally authorized representative. Describe who will be allowed to provide informed consent. Describe the process used to determine these individual’s authority to consent to research.
+
+For research conducted in the state of Pennsylvania, review “HRP-013 -SOP- Legally Authorized Representatives, Children and Guardians” to be aware of which individuals in the state of Pennsylvania meet the definition of “legally authorized representative.”
+
+For research conducted outside of the state of Pennsylvania, provide information that describes which individuals are authorized under applicable law to consent on behalf of a prospective subject to their participation in the procedure(s) involved in this research. One method of obtaining this information is to have a legal counsel or authority review your protocol along with the definition of “children” in “HRP-013 -SOP- Legally Authorized Representatives, Children, and Guardians.”
+
+:::
+
+> [Type protocol text here or indicate as not applicable]
+
+#### Assent of Adults Unable to Consent
+
+::: {.instr_box}
+
+Describe the process for assent of the subjects. Indicate whether assent will be required of all, some, or none of the subjects. If some, indicate which subjects will be required to assent and which will not. 
+
+If assent will not be obtained from some or all subjects, provide an explanation of why not.
+
+:::
+
+> [Type protocol text here or indicate as not applicable]
+
+### Subjects who are not yet adults (infants, children, teenagers)
+
+#### Parental Permission
+
+::: {.instr_box}
+
+Describe whether and how parental permission will be obtained. If permission will  be obtained from individuals other than parents, describe who will be allowed to provide permission. Describe the process used to determine these individual’s authority to consent to each child’s general medical care.
+
+For research conducted in the state of Pennsylvania, review “HRP-013-SOP- Legally Authorized Representatives, Children and Guardians” to be aware of which individuals in the state of Pennsylvania meet the definition of “children.” 
+
+For research conducted outside of the state of Pennsylvania, provide information that describes which persons have not attained the legal age for consent to treatments or procedures involved in the research, under the applicable law of the jurisdiction in which research will be conducted. One method of obtaining this information is to have a legal counsel or authority review your protocol along with the definition of “children” in “HRP-013-SOP- Legally Authorized Representatives, Children, and Guardians.”
+
+:::
+
+> [Type protocol text here or indicate as not applicable]
+
+#### Assent of subjects who are not yet adults
+
+::: {.instr_box}
+
+Indicate whether assent will be obtained from all, some, or none of the children. If assent will be obtained from some children, indicate which children will be required to assent.
+When assent of children is obtained describe whether and how it will be documented.
+
+:::
+
+> [Type protocol text here or indicate as not applicable]

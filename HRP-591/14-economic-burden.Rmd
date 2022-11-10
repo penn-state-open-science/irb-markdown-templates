@@ -1,0 +1,47 @@
+# Economic Burden to Subjects
+
+## Costs
+
+::: {.instr_box}
+
+Describe any costs that subjects may be responsible for because of
+participation in the research.
+
+:::
+
+> [Type protocol text here or indicate as not applicable]
+
+## Compensation for research-related injury
+
+::: {.instr_box}
+
+**If the research involves more than Minimal Risk to subjects,
+describe the available compensation in the event of research related
+injury.**
+
+**If there is no sponsor agreement that addresses compensation for
+medical care for research subjects with a research-related injury,
+include the following text as written - DO NOT ALTER OR DELETE:**
+
+It is the policy of the institution to provide neither financial
+compensation nor free medical treatment for research-related injury.
+In the event of injury resulting from this research, medical treatment
+is available but will be provided at the usual charge. Costs for the
+treatment of research-related injuries will be charged to subjects or
+their insurance carriers.
+
+**For sponsored research studies with a research agreement with the
+sponsor that addresses compensation for medical care for
+research-related injuries, include the following text as written -**
+**DO NOT ALTER OR DELETE:**
+
+It is the policy of the institution to provide neither financial
+compensation nor free medical treatment for research-related injury.
+In the event of injury resulting from this research, medical treatment
+is available but will be provided at the usual charge. Such charges
+may be paid by the study sponsor as outlined in the research agreement
+and explained in the consent form.
+
+:::
+
+> [Enter protocol text as outlined in the instructions here or indicate as not applicable]

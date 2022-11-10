@@ -1,0 +1,45 @@
+#	Study Design and Procedures
+
+::: {.instr_box}
+
+Data collection materials that will be seen or used by subjects in your study must be uploaded to CATS IRB (http://irb.psu.edu).   DO NOT include any actual data collection materials in this protocol (e.g., actual survey or interview questions)
+
+:::
+
+> [Do not type here]
+
+## Study Design
+
+::: {.instr_box}
+
+Describe and explain the study design.
+
+:::
+
+> [Type protocol text here]
+
+
+## Study Procedures
+
+::: {.instr_box}
+
+Provide a step by step description of all research procedures being conducted (broken down by visit, if applicable) including such information as below (where and when applicable); describe the following:
+-	HOW: (e.g., data collection via interviews, focus groups, forms such as surveys and questionnaires, medical/school records, audio/video/digital recordings, photographs, EKG procedures, MRI, mobile devices such as electronic tablets/cell phones, observations, collection of specimens, experimental drug/device testing, manipulation of behavior/use of deception, computer games, etc.)
+-	WHERE: (e.g., classrooms, labs, internet/online, places of business, medical settings, public spaces, etc.)
+
+:::
+
+> [Type protocol text here]
+
+
+### Visit 1 or Day 1 or Pre-test, etc. 
+
+> [Type protocol text here]
+
+###	Visit 2 or Day 2 or Post-test, etc. (If applicable)
+
+> [Type protocol text here]
+
+##	Duration of Participation
+
+> [Type protocol text here]

@@ -1,0 +1,28 @@
+# Other Approvals
+
+## Other Approvals from External Entities
+
+::: {.instr_box}
+
+Describe any approvals that will be obtained prior to commencing the
+research (e.g., from engaged cooperating institutions IRBs who are
+also reviewing the research and other required review committees,
+community leaders, schools, research locations where research is to be
+conducted by the Penn State investigator, funding agencies, etc.).
+
+:::
+
+> [Type protocol text here or indicate as not applicable]
+
+## Internal PSU Ancillary Reviews
+
+::: {.instr_box}
+
+DO NOT ALTER OR DELETE: 
+Ancillary reviews are reviewed by other compliance groups or individuals within Penn State that inform the IRB’s review of a new study or a modification to an existing study.
+
+PSU IRB may set applicable ancillary reviews for your study. Please refer to the “HRP-309 Worksheet – Ancillary Review Matrix” for more information (found in the CATS Library).
+
+:::
+
+> [Do not type here]

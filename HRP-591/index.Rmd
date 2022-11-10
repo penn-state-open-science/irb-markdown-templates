@@ -1,0 +1,222 @@
+--- 
+title: "HRP-591 - Protocol for Human Subject Research"
+date: "`r Sys.Date()`"
+css: ../css/style.css
+bibliography: [bib/packages.bib]
+link-citations: yes
+output:
+    html_document:
+        toc: true
+        number_sections: true
+        toc_float: true
+    word_document:
+        toc: true
+        number_sections: true
+        toc_float: false
+---
+
+## Protocol Title: {-}
+
+::: {.instr_box}
+
+Provide the full title of the study as listed in item 1 on the “Basic Information” page in CATS IRB (http://irb.psu.edu).
+
+:::
+
+## Principal Investigator: {-}
+
+Name:
+
+Department: 
+
+Telephone: 
+
+E-mail Address: 
+
+## Version Date: {-}
+
+::: {.instr_box}
+
+Provide a version date for this document. This date must be updated each time this document is submitted to the IRB office with revisions.  DO NOT revise the version date in the footer of this document. 
+
+:::
+
+## Clinicaltrials.gov Registration #: {-}
+
+::: {.instr_box}
+
+Provide the registration number for this study, if applicable. See “HRP-103- Investigator Manual”, under “ClinicalTrials.gov” for more information. 
+
+:::
+
+
+
+**[Important Instructions for Using This Protocol Template:]{.underline}**
+
+This template is provided to help investigators prepare a protocol that
+includes the necessary information needed by the IRB to determine
+whether a study meets all applicable criteria for approval.
+
+1.  **GENERAL INSTRUCTIONS**[^1]**:**
+
+-   Prior to completing this protocol, ensure that you are using the most recent version by verifying the protocol template version date in the footer of this document with the current version provided in the CATS IRB Library.
+-   Do not change the protocol template version date located in the footer of this document.
+-   Some of the items may not be applicable to all types of research. If an item is not applicable, please indicate as such or skip question(s) if indicated in any of the instructional text.
+-   **GRAY INSTRUCTIONAL BOXES:** Type your protocol responses [below]{.underline} the gray instructional boxes of guidance language. If the section or item is not applicable, indicate not applicable.
+-   **Do NOT delete the instructional boxes from the final version of the protocol.**
+-   The protocol should be written in lay language. Do **NOT** copy and paste grant proposal information into the protocol.
+
+[^1]: This template satisfies AAHRPP elements 1.7.B, I.8.B, I-9, II.2. A, II.2.I, II.3.A, II.3.B, II.3.C-II.3.C.1, II.3.D-F, II.4.A, III.1.C-F, II.2.D
+
+\newpage
+
+-   Add the completed protocol template to your study in CATS IRB (<http://irb.psu.edu>) on the "Basic Information" page.
+    
+2.  **CATS IRB LIBRARY:**
+
+-   Documents referenced in this protocol template (e.g., SOP's, Worksheets, Checklists, and Templates) can be accessed by clicking the Library link in CATS IRB (<http://irb.psu.edu>).
+
+3.  **PROTOCOL REVISIONS:**
+
+-   When making revisions to this protocol as requested by the IRB,
+    please follow the instructions outlined in the guides available in
+    the Help Center in CATS IRB (<http://irb.psu.edu>) for using track
+    changes.
+
+-   Update the Version Date on page 1 each time this document is
+    submitted to the IRB office with revisions.
+
+**If you need help...**
+
+**All locations:**
+
+**Human Research Protection Program**
+
+Office for Research Protections
+
+101 Technology Center\
+University Park, PA 16802-7014\
+Phone: 814-865-1775\
+Fax: 814-863-8699\
+Email: [irb-orp@psu.edu](mailto:ORProtections@psu.edu)
+
+[**https://www.research.psu.edu/irb**](https://www.research.psu.edu/irb)
+
+<!-- # Table of Contents -->
+
+<!-- ## [1.0 Objectives](#objectives) -->
+
+<!-- ## [2.0 Background](#background) -->
+
+<!-- ## [3.0 Inclusion and Exclusion Criteria](#inclusion-and-exclusion-criteria) -->
+
+<!-- ## [4.0 Recruitment Methods](#recruitment-methods) -->
+
+<!-- ## [5.0 Consent Process and Documentation](#consent-process-and-documentation) -->
+
+<!-- ## [6.0 HIPAA Research Authorization and/or Waiver or Alteration of Authorization](#hipaa-research-authorization-andor-waiver-or-alteration-of-authorization) -->
+
+<!-- ## [7.0 Study Design and Procedures](#study-design-and-procedures) -->
+
+<!-- ## [8.0 Number of Subjects and Statistical Plan](#number-of-subjects-and-statistical-plan) -->
+
+<!-- ## [9.0 Data and Safety Monitoring Plan](#data-and-safety-monitoring-plan) -->
+
+<!-- ## [10.0 Risks](#risks) -->
+
+<!-- ## [11.0 Potential Benefits to Subjects and Others](#_Toc117767339) -->
+
+<!-- ## [12.0 Sharing Results with Subjects](#sharing-results-with-subjects) -->
+
+<!-- ## [13.0 Subject Payment and/or Travel Reimbursements](#subject-payment-andor-travel-reimbursements) -->
+
+<!-- ## [14.0 Economic Burden to Subjects](#economic-burden-to-subjects) -->
+
+<!-- ## [15.0 Resources Available](#resources-available) -->
+
+<!-- ## [16.0 Other Approvals](#other-approvals) -->
+
+<!-- ## [17.0 Multi-Site Study](#_Toc117767345) -->
+
+<!-- ## [18.0 Adverse Event Reporting](#adverse-event-reporting) -->
+
+<!-- ## [19.0 Study Monitoring, Auditing, and Inspecting](#study-monitoring-auditing-and-inspecting) -->
+
+<!-- ## [20.0 Future Undetermined Research: Data and Specimen Banking](#future-undetermined-research-data-and-specimen-banking) -->
+
+<!-- ## [21.0 References](#references) -->
+
+<!-- ## [22.0 Confidentiality, Privacy and Data Management](#confidentiality-privacy-and-data-management) -->
+
+```{r add-bib-entries, include=FALSE}
+# automatically create a bib database for R packages
+knitr::write_bib(c(
+  .packages(), 'knitr', 'rmarkdown'
+), 'bib/packages.bib')
+```
+
+```{r child="01-objectives.Rmd"}
+```
+
+```{r child="02-background.Rmd"}
+```
+
+```{r child="03-inclusion-exclusion.Rmd"}
+```
+
+```{r child="04-recruitment-methods.Rmd"}
+```
+
+```{r child="05-consent.Rmd"}
+```
+
+```{r child="06-hipaa.Rmd"}
+```
+
+```{r child="07-study-design-procedures.Rmd"}
+```
+
+```{r child="08-n-subjects-stats-plan.Rmd"}
+```
+
+```{r child="09-data-safety-monitoring.Rmd"}
+```
+
+```{r child="10-risks.Rmd"}
+```
+
+```{r child="11-potential-benefits.Rmd"}
+```
+
+```{r child="12-sharing-results.Rmd"}
+```
+
+```{r child="13-subject-payment.Rmd"}
+```
+
+```{r child="14-economic-burden.Rmd"}
+```
+
+```{r child="14-economic-burden.Rmd" }
+```
+
+```{r child="16-other-approvals.Rmd"}
+```
+
+```{r child="17-multi-site.Rmd"}
+```
+
+```{r child="18-adverse-event-reporting.Rmd"}
+```
+
+```{r child="19-study-monitoring.Rmd"}
+```
+
+```{r child="20-future-undetermined-research.Rmd"}
+```
+
+```{r child="21-references.Rmd"}
+```
+
+```{r child="22-confidentiality-privacy-data-mgmt.Rmd"}
+```

@@ -1,0 +1,72 @@
+# Inclusion and Exclusion Criteria
+
+::: {.instr_box}
+
+Create a numbered list below in sections \@ref(inclusion-criteria) and \@ref(exclusion-criteria) of criteria subjects must meet to be eligible for study enrollment (e.g., age, gender, diagnosis, etc.).
+
+**Vulnerable Populations:**
+
+You MAY NOT include members of these populations as subjects in your
+research unless you indicate this in your inclusion criteria because
+specific regulations apply to studies that involve vulnerable
+populations.
+
+The checklists referenced below outline the determinations to be made by the IRB when reviewing research involving these populations. Review the checklists as these will help to inform your responses throughout the remainder of the protocol.
+
+-   **Children --**Review "HRP-416- Checklist - Children"
+-   **Pregnant Women** -- Review "HRP-412- Checklist - Pregnant Women"
+-   **Cognitively Impaired Adults-** Review "HRP-417- Checklist - Cognitively Impaired Adults"
+-   **Prisoners-** Review "HRP-415- Checklist - Prisoners"
+-   **Neonates of uncertain viability or non-viable neonates-** Review "HRP-413- Checklist - Non-Viable Neonates" or "HRP-414- Checklist - Neonates of Uncertain Viability"
+
+:::
+
+> [Do not type here]
+
+## Inclusion Criteria
+
+::: {.instr_box}
+
+Create a numbered list of the inclusion criteria that define who will be included in your final study sample (e.g., age, gender, condition, etc.)
+
+:::
+
+> [Type protocol text here]
+
+### Does this research involve collecting data from individuals residing outside of the US?
+
+[ ] No</br>
+[ ] Yes -- identify the countries where data collection will take place
+
+> [Type protocol text here]
+
+## Exclusion Criteria
+
+::: {.instr_box}
+
+Create a numbered list of the exclusion criteria that define who will be excluded in your study.
+
+:::
+
+> [Type protocol text here]
+
+## Early Withdrawal of Subjects {#early-withdrawal}
+
+### Criteria for removal from study
+
+::: {.instr_box}
+
+Insert subject withdrawal criteria (e.g., safety reasons, failure of subject to adhere to protocol requirements, subject consent withdrawal, disease progression, etc.).
+
+:::
+
+> [Type protocol text here or indicate as not applicable]
+
+
+### Follow-up for withdrawn subjects
+
+::: {.instr_box}
+Describe when and how to withdraw subjects from the study; the type and timing of the data to be collected for withdrawal of subjects; whether and how subjects are to be replaced; the follow-up for subjects withdrawn from investigational treatment.
+:::
+
+> [Type protocol text here or indicate as not applicable]

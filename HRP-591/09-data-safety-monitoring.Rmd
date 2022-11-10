@@ -1,0 +1,96 @@
+# Data and Safety Monitoring Plan
+
+::: {.instr_box}
+
+**This section is required when research involves more than Minimal
+Risk to subjects as defined in "HRP-001 SOP- Definitions."**
+
+*Minimal Risk* is defined as the probability and magnitude of harm or discomfort anticipated in the research that are not greater in and of themselves than those ordinarily encountered in daily life or during the performance of routine physical or psychological examinations or tests. 
+For research involving prisoners, *Minimal Risk* is the probability and magnitude of physical or psychological harm that is normally encountered in the daily lives, or in the routine medical, dental, or psychological examination of healthy persons.
+
+**Please complete each section below if the research involves more
+than minimal risk to subjects or indicate not applicable.**
+
+:::
+
+> [Do not type here]
+
+## Periodic evaluation of data
+
+::: {.instr_box}
+
+Describe the plan to periodically evaluate the data collected regarding both harms and benefits to determine whether subjects remain safe.
+
+:::
+
+> [Type protocol text here or indicate as not applicable]
+
+## Data that are reviewed
+
+::: {.instr_box}
+
+Describe the data that are reviewed, including safety data, untoward events, and efficacy data.
+
+:::
+
+> [Type protocol text here or indicate as not applicable]
+
+## Method of collection of safety information
+
+::: {.instr_box}
+
+Describe the method by which the safety information will be collected (e.g., with case report forms, at study visits, by telephone calls and with subjects).
+
+:::
+
+> [Type protocol text here or indicate as not applicable]
+
+## Frequency of data collection
+
+::: {.instr_box}
+
+Describe the frequency of data collection, including when safety data collection starts.
+
+:::
+
+> [Type protocol text here or indicate as not applicable]
+
+## Individuals reviewing the data
+
+::: {.instr_box}
+
+Identify the individuals who will review the data. The plan might include establishing a data and safety monitoring committee and a plan for reporting data monitoring committee findings to the IRB and the sponsor.
+
+:::
+
+> [Type protocol text here or indicate as not applicable]
+
+## Frequency of review of cumulative data
+
+::: {.instr_box}
+
+Describe the frequency or periodicity of review of cumulative data.
+
+:::
+
+> [Type protocol text here or indicate as not applicable]
+
+## Statistical tests
+
+::: {.instr_box}
+
+Describe the statistical tests for analyzing the safety data to determine whether harms are occurring.
+
+:::
+
+> [Type protocol text here or indicate as not applicable]
+
+## Suspension of research
+
+::: {.instr_box}
+
+Describe any conditions that trigger an immediate suspension of research.
+
+:::
+
+> [Type protocol text here or indicate as not applicable]

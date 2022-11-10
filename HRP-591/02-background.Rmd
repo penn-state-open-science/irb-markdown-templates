@@ -1,0 +1,37 @@
+# Background
+
+## Scientific Background and Gaps
+
+::: {.instr_box}
+
+Describe the scientific background and gaps in current knowledge.
+For clinical research studies being conducted at Penn State
+Health/Penn State College of Medicine, and for other non-PSH locations
+as applicable, describe the treatment/procedure that is considered
+standard of care (i.e., indicate how patients would be treated in
+non-investigational setting); and if applicable, indicate if the study
+procedure is available to patient without taking part in the study.
+
+:::
+ 
+> [Type protocol text here]
+ 
+## Previous Data
+
+::: {.instr_box}
+
+Describe any relevant preliminary data.
+
+:::
+
+> [Type protocol text here]
+
+## Study Rationale
+
+::: {.instr_box}
+
+Provide the scientific rationale for the research.
+
+:::
+
+> [Type protocol text here]
